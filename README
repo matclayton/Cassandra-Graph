@@ -1,0 +1,5 @@
+Playing around with the idea of storing a basic (1 edge deep) graph in cassandra, this is similar to flockdb by twitter, but much simpler and using cassandra as the datastore and not a gizzard sharded innodb store.
+
+THIS IS NOT PRODUCTION READY!
+
+Still needs performance testing, and pagination adding to the return edge lists to be useful in production.
